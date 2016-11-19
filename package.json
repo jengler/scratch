@@ -1,0 +1,11 @@
+{
+  "name": "scratch",
+  "version": "0.0.1",
+  "description": "Playground",
+  "main": "js/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
